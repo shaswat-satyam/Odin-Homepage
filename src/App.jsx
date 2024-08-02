@@ -1,6 +1,6 @@
-import AboutMe from "./AboutMe";
-import Projects from "./Projects";
-import ContactMe from "./ContactMe";
+import AboutMe from "./AboutMe.jsx";
+import Projects from "./Projects.jsx";
+import ContactMe from "./ContactMe.jsx";
 import "./index.css";
 function App() {
   return (
